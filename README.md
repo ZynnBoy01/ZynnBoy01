@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-<details open><summary><code><h2>My Biodata</h2></code></summary>
+<details open><summary><code><h3>My Biodata</h3></code></summary>
 
 ```python
 class Zynn:
