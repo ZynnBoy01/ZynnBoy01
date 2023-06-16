@@ -37,7 +37,7 @@ class Zynn:
 
 		print(my_biodata)
 
-if __name__=="__main__":
+if __name__ == "__main__":
 	Zynn()
 ```
 </details>
