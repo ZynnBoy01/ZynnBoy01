@@ -42,6 +42,6 @@ if __name__=="__main__":
 ```
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polygon&label=Views&color=green&style=plastic" alt="polygon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZynnBoy01&label=Views&color=green&style=plastic" alt="zynn" /> </p>
 
 <h3>Terimakasih telah berkunjung 😁</h3>
