@@ -45,4 +45,8 @@ if __name__ == "__main__":
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZynnBoy01&label=Views&color=green&style=plastic" alt="zynn" /> </p>
 
-<h3>Terimakasih telah berkunjung 😁</h3>
+<div align="center">
+	
+### Terimakasih telah berkunjung 😁
+
+</div>
